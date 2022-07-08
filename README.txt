@@ -1,4 +1,4 @@
-# prueba tecnica microservicios spring boot
+# prueba para push git
 
 > Atendiendo el reto Code Challenge 
 > Se desarrolla un microservicio en spring boot usuando buenas practicas de diseño y codificaion, 
@@ -54,6 +54,6 @@ Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/co
 
 ## Más informacion
 
-Echo por Carlos Adrian Soto Botero.
+Hecho Angel Contreras.
 http://localhost:8080/amil@gmail.com
 
